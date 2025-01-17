@@ -4,8 +4,6 @@ import random
 
 combatStrength = 100000000
 
-a = False
-
 weapons = ["Fist", "Knife", "Club", "Gun", "Bomb", "Nuclear Bomb"]
 weaponRoll = random.randint(1, 6)
 if weaponRoll <= 2:
