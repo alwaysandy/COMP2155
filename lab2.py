@@ -1,3 +1,5 @@
+#Code Questions
+
 import random
 
 combatStrength = 100000000
