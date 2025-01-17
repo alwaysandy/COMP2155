@@ -1,3 +1,1 @@
-# dummyRepo_comp2155
-
-### Week 01
+# COMP2155
